@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "area-calculator-adapter-pattern-example", "area-calculator-adapter-pattern-example\area-calculator-adapter-pattern-example.csproj", "{4E8A9ED3-0758-4CA4-969D-BD113F406084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8A9ED3-0758-4CA4-969D-BD113F406084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8A9ED3-0758-4CA4-969D-BD113F406084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8A9ED3-0758-4CA4-969D-BD113F406084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8A9ED3-0758-4CA4-969D-BD113F406084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C1B85FA-E2C1-4DDB-A8F1-B57139B3176E}
+	EndGlobalSection
+EndGlobal
